@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Informato</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome to informato</h1>
+    <p>
+       <strong>explore world!!!</strong> 
+    </p>
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <style>
+          -
+        </style>
+      </head>
+      <body>
+
+        <ul>
+          <li><a href="main%202.html">Home</a></li>
+          <li><a href="https://www.ndtv.com">News</a></li>
+          <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Top shopping sites</a>
+            <div class="dropdown-content">
+              
+             
+              
+              <a href="https://www.amazon.in/">Amazon</a>
+              <a href="https://www.flipkart.com/">Flipkart</a>
+              <a href="https://www.snapdeal.com/?utm_source=Columbus&utm_medium=Affiliate&utm_campaign=42&utm_term=31_1_20180709clj8eqwwhsm3&click_id=819134490C1531149614">Snapdeal</a>
+              <a href="https://www.jabong.com/">Jabong</a>
+              <a href="https://www.myntra.com/
+                       ">Myntra</a>
+              <a href="https://www.infibeam.com/">infibeam</a>
+              <a href="http://www.firstcry.com/?ref=ddm_1&utm_source=ddm&utm_medium=aff&utm_content=ddm">For babies</a>
+              <a href="http://www.homeshop18.com/?utm_source=affiliate&utm_medium=OMG&utm_campaign=text">Homeshop 18</a>
+              
+              
+
+        
+
+            </div>
+          </li>
+          <li> <a href="https://www.yatra.com/">E-Booking</a> </li>
+          <li><a href="https://www.bigbasket.com/">Grocery</a></li>
+          <li><a href="https://www.paytm.com">E-Payment</a></li>
+          
+        </ul><br>
+        
+      
+    <marquee behavior="alternate" bgcolor="gree"><p>visit <a href="main%202.html">Home</a> to explore more!!!</p></marquee> 
+    <br>
+    <br>
+    <img src="https://tr1.cbsistatic.com/hub/i/2016/10/17/b8fc1ae1-fb59-4d54-88a4-291db27c1ae6/afa3d383c84c3be3b520b34de911362e/explorehero.jpg" style="width500:px;height:240px"><br><br><br>
+        <marquee direction="down"> <img src="https://www.gocanvas.com/content/images/image-uploads/facebook618v2.jpg" style="width:500px;height:200px"></marquee>
+        <br><br>
+        
+        <iframe scrolling="no" frameborder="no" clocktype=\"html5\" style="overflow:hidden;border:0;margin:0;padding:0;width:480px;height:250px;" src="https://www.clocklink.com/clocks/HTML5/html5-world.html?New_Delhi&Tokyo&New_York&480&blue"></iframe>
+        
+        <img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:48px;height:48px;">
+        <!-- InstaWidget -->
+        <a href="https://instawidget.net/v/user/kazimsayed954" id="link-71be514e01ef359396fc8e9f36f7132150a8f20f3d016756b3ab6a40b022b7c9">@kazimsayed954</a>
+        <script src="https://instawidget.net/js/instawidget.js?u=71be514e01ef359396fc8e9f36f7132150a8f20f3d016756b3ab6a40b022b7c9&width=300px"></script>
+
+  </body>
+</html>

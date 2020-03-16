@@ -1,2 +1,2 @@
-# kazim-mehdi
-programmer
+INFORMATO
+(MY FIRST COMMIT IN GITHUB)
